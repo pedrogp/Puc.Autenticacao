@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Puc.Autenticacao", "Puc.Aut
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Puc.Autenticacao.Tests", "Puc.Autenticacao.Tests\Puc.Autenticacao.Tests.csproj", "{C8F20001-1C1B-4ABF-832F-7C8E8D9D534A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Puc.Autenticacao.Entidades", "Puc.Autenticacao.Entidades\Puc.Autenticacao.Entidades.csproj", "{C48DAF3A-06B4-4860-ACC5-498ADE6BB585}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Puc.Autenticacao.Negocio", "Puc.Autenticacao.Negocio\Puc.Autenticacao.Negocio.csproj", "{6B403BE2-6052-4853-AF9B-0DFE2C9F513E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{C8F20001-1C1B-4ABF-832F-7C8E8D9D534A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8F20001-1C1B-4ABF-832F-7C8E8D9D534A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8F20001-1C1B-4ABF-832F-7C8E8D9D534A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C48DAF3A-06B4-4860-ACC5-498ADE6BB585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C48DAF3A-06B4-4860-ACC5-498ADE6BB585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C48DAF3A-06B4-4860-ACC5-498ADE6BB585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C48DAF3A-06B4-4860-ACC5-498ADE6BB585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B403BE2-6052-4853-AF9B-0DFE2C9F513E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B403BE2-6052-4853-AF9B-0DFE2C9F513E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B403BE2-6052-4853-AF9B-0DFE2C9F513E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B403BE2-6052-4853-AF9B-0DFE2C9F513E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
